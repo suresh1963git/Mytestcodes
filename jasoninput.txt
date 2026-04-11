@@ -1,0 +1,10 @@
+I asked
+You are an expert in creating JSON prompt Generate a JSON prompt to create a image of loard vishnu’s Narasimha avtar This avatar took place inside the Palace. One of the pillars is broken and the Narsima avatar came out from the broken pillar Narasimaha avtar is loard vishnus’ one of the avatar with Lion head and human body, full of hair. The avatar happens in the evening time at around 6 pm
+
+
+
+{
+  "prompt": "A dramatic scene of Lord Vishnu’s Narasimha avatar emerging from a broken palace pillar. The setting is inside an ancient royal palace with grand architecture. One large stone pillar is shattered, and from within it emerges Narasimha — a powerful form with a lion’s head, sharp fangs, glowing eyes, and a muscular human body covered in thick hair. The moment captures intense divine energy as debris and dust scatter around. The lighting reflects evening time around 6 PM, with warm golden sunlight entering through palace windows, creating a mystical and dramatic atmosphere. The scene should feel powerful, divine, and intense, with detailed textures on the pillar, palace interiors, and Narasimha’s fur and expression.",
+  "style": "mythological, hyper-realistic, cinematic lighting, high detail",
+  "resolution": "1024x1024"
+}
