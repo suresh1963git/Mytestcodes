@@ -1,0 +1,70 @@
+{
+"title": "NARASIMHA AVATAR",
+"duration": 8,
+"language": "Tamil",
+"setting": {
+"location": "Ancient royal palace interior",
+"time": "Evening around 6 PM",
+"atmosphere": "Dramatic, dim golden light with shadows, tense and divine energy"
+},
+"characters": [
+{
+"name": "Hiranyakashipu",
+"description": "Fierce demon king holding a heavy mace, angry expression, royal attire"
+},
+{
+"name": "Prahalada",
+"description": "Young devotee of Lord Vishnu, calm and fearless, simple attire"
+},
+{
+"name": "Narasimha",
+"description": "Avatar of Lord Vishnu with lion head and human body, covered in thick hair, glowing eyes, divine and terrifying form"
+}
+],
+"scenes": [
+{
+"scene": 1,
+"duration": 4,
+"visual": "Inside a grand palace hall with tall pillars. Hiranyakashipu stands angrily holding a mace. Prahalada stands calmly in front of him.",
+"dialogue": [
+{
+"character": "Hiranyakashipu",
+"line": "எங்கே உன் ஹரி? இந்த தூணில் இருப்பானா?"
+},
+{
+"character": "Prahalada",
+"line": "ஆமாம், இந்த தூணில் இருப்பான்."
+"visual": "Hiranyakashipu smashes a pillar with his mace.
+}
+],
+"emotion": "Tension and devotion contrast"
+},
+{
+"scene": 2,
+"duration": 4,
+"visual":  The pillar cracks and explodes. From within, Narasimha bursts out dramatically.",
+"effects": [
+"Thunder sound",
+"Storm winds",
+"Dust and debris explosion",
+"Lightning flashes"
+],
+"description": "Narasimha emerges powerfully from the broken pillar, roaring with divine fury, glowing eyes and massive presence filling the palace hall",
+"emotion": "Shock, divine rage, supernatural power"
+}
+],
+"audio": {
+"background_music": "Intense mythological orchestral music",
+"sound_effects": [
+"Thunder",
+"Storm wind",
+"Pillar breaking",
+"Narasimha roar"
+]
+},
+"style": {
+"visual_style": "Cinematic, high detail, mythological epic",
+"lighting": "Dramatic contrast with golden evening tones and lightning flashes",
+"camera": "Dynamic angles, slow motion during Narasimha emergence"
+}
+}
