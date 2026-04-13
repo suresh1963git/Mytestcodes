@@ -1,0 +1,58 @@
+{
+  "project_title": "Social Eagle AI - 21 Day AI Programme for Children",
+  "ad_type": "small promotional advertisement",
+  "language": "Tamil",
+  "target_audience": "Parents and children in both rural and urban Tamil-speaking communities",
+  "core_message": "Village children should also receive the benefits of modern AI education and grow strong in technology",
+  "tone": "emotional, inspiring, patriotic, empowering",
+  "visual_style": "cinematic, realistic, rural Indian, educational, uplifting",
+  "aspect_ratio": "16:9",
+  "resolution": "1920x1080",
+  "duration_seconds": 8,
+  "background_music_style": "starts with soft village flute, rises into patriotic orchestral, then uplifting educational theme",
+  "assets": {
+    "social_eagle_logo": "socialeagle(1).png",
+    "manoj_photo": "manoj(1).png"
+  },
+
+  "scenes": [
+
+{
+      "scene_id": 4,
+      "duration_seconds": 2,
+      "title": "Manoj Invitation",
+       "visual_prompt": "Use the uploaded photo of Manoj and animate it into a realistic speaking video. Manoj stands on a dias or simple stage setup representing a Social Eagle educational event. Natural lip movement, subtle head movement, blinking, realistic facial animation, professional but friendly presence. Background should feel like a seminar or learning session. the company logo socialeagle will be in the background",
+      "source_image": "manoj.png","socialeagle.png"
+      "animation_type": "photo to talking video",
+      "lip_sync": true,
+      "facial_animation": true,
+      "natural_head_motion": true,
+      "camera": "medium close-up with slight forward cinematic push",
+      "audio": {
+        "music": "soft motivational background music under speech",
+        "sfx": null,
+        "dialogue": "இந்த கோர்ஸில் பத்து முதல் பதினாறு வயது ஸ்டுடென்ட்ஸ் சேரலாம். இது 21 DAYS PROGRAM,  உங்கள் சம்மர் லீவையை யூஸ்ஃபுல்லா கழிக்க ஒரு CUTTING EDGE ப்ரோக்ராம். எங்கள் மாணவர்களே எங்கள் IDENTITY. நன்றி.",
+        "voiceover": null
+      },
+      "on_screen_text": "Age 10 to 16 | Summer AI Programme"
+    }
+  
+
+]
+
+  "branding": {
+     "brand_name": "Social Eagle AI",
+    "end_card_text": "Social Eagle AI | 21 Day AI Programme for Children | Admissions Open Now"
+  },
+  "editing_notes": {
+    "transition_style": "smooth cinematic fades with energetic motion graphics between scenes",
+    "color_grading": "warm rural tones in scene 1, bold patriotic contrast in scene 2, bright educational look in scene 3, clean professional tone in scene 4",
+    "important_note": "Ensure the emotional focus strongly communicates that village children also deserve access to AI, Python, ChatGPT, Gemini, Claude, and future technology education."
+  },
+  "final_output": {
+    "format": "mp4",
+    "fps": 24,
+    "voice_language": "Tamil",
+    "music_mix": "balanced so speech and voiceover remain clear"
+  }
+}

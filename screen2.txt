@@ -1,0 +1,51 @@
+{
+  "project_title": "Social Eagle AI - 21 Day AI Programme for Children",
+  "ad_type": "small promotional advertisement",
+  "language": "Tamil",
+  "target_audience": "Parents and children in both rural and urban Tamil-speaking communities",
+  "core_message": "Village children should also receive the benefits of modern AI education and grow strong in technology",
+  "tone": "emotional, inspiring, patriotic, empowering",
+  "visual_style": "cinematic, realistic, rural Indian, educational, uplifting",
+  "aspect_ratio": "16:9",
+  "resolution": "1920x1080",
+  "duration_seconds": 8,
+  "background_music_style": "starts with soft village flute, rises into patriotic orchestral, then uplifting educational theme",
+  "assets": {
+    "social_eagle_logo": "socialeagle(1).png",
+    "manoj_photo": "manoj(1).png"
+  },
+
+  "scenes": [
+    {
+      "scene_id": 2,
+      "duration_seconds": 2,
+      "title": "Strong India",
+      "visual_prompt": "A dramatic graphic scene showing the map of India in the center. Place the SOCIAL EAGLE logo at the center of the India map using the uploaded logo file. On both sides of the India map, show strong muscular arms flexing, symbolizing power and strength. A heavy chain wrapped around the India map suddenly breaks with force, sparks and fragments flying. Patriotic and cinematic feel.",
+      "camera": "static center composition with slight dramatic zoom-in",
+      "audio": {
+        "music": "rising patriotic orchestral music",
+        "sfx": "metal chain breaking sound effect with impact",
+        "dialogue": null,
+        "voiceover": "வலிமை உள்ள பாரதம்."
+      },
+      "on_screen_text": "SOCIAL EAGLE AI"
+    }
+
+]
+
+  "branding": {
+     "brand_name": "Social Eagle AI",
+    "end_card_text": "Social Eagle AI | 21 Day AI Programme for Children | Admissions Open Now"
+  },
+  "editing_notes": {
+    "transition_style": "smooth cinematic fades with energetic motion graphics between scenes",
+    "color_grading": "warm rural tones in scene 1, bold patriotic contrast in scene 2, bright educational look in scene 3, clean professional tone in scene 4",
+    "important_note": "Ensure the emotional focus strongly communicates that village children also deserve access to AI, Python, ChatGPT, Gemini, Claude, and future technology education."
+  },
+  "final_output": {
+    "format": "mp4",
+    "fps": 24,
+    "voice_language": "Tamil",
+    "music_mix": "balanced so speech and voiceover remain clear"
+  }
+}
